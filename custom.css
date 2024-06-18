@@ -99,7 +99,7 @@
 	}
 
 	.service-group-name {
-		color: var(--service-group); /* group label NAME color */
+		color: var(--service-group) !important; /* group label NAME color */
 	}
 
 	.services-group > button > svg {
@@ -145,7 +145,7 @@
   *******************************/
 
 	.bookmark-group-name {
-		color: var(--bookmark-group);
+		color: var(--bookmark-group) !important;
 	}
 
 	.bookmark-icon {
